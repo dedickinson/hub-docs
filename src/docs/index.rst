@@ -6,6 +6,7 @@ Kraken Hub documentation
    :caption: Table of Contents
 
    introduction
+   other_projects
    notes/index
 
 Indices and tables
